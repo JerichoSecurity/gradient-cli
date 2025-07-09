@@ -66,7 +66,7 @@ setup(
         'progressbar2',
         'halo',
         'marshmallow<3.0',
-        'attrs<=19',
+        'attrs<=22.2.0',
         'PyYAML==5.3.1',
         'python-dateutil==2.*',
         'websocket-client==0.57.*',
